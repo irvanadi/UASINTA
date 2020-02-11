@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_cluster"
+        android:icon="@drawable/ic_cluster"
+        android:title="Clustering"/>
+
+    <item
+        android:id="@+id/nav_decisiontree"
+        android:icon="@drawable/ic_decision_tree"
+        android:title="Decision Tree"/>
+
+    <item
+        android:id="@+id/nav_estimate"
+        android:icon="@drawable/ic_estimate"
+        android:title="Estimate"/>
+
+</menu>
